@@ -47,11 +47,11 @@
 			</article>
 		</div>
 		<div class="right-column">
-			<h1><a href="#">CTA</a></h1>
+			<h3><a href="#">CTA</a></h3>
 			<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, quo ut ex a porro doloribus nobis ducimus at dolores rerum facilis vitae cumque minima nesciunt repellat. Voluptates mollitia nihil nobis voluptatem ipsa assumenda ea consequuntur dicta magni illum consequatur possimus voluptatibus, aperiam eius alias molestias officia doloribus, inventore praesentium ut?</p>
-			<h1><a href="#">CTA</a></h1>
+			<h3><a href="#">CTA</a></h3>
 			<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, quo ut ex a porro doloribus nobis ducimus at dolores rerum facilis vitae cumque minima nesciunt repellat. Voluptates mollitia nihil nobis voluptatem ipsa assumenda ea consequuntur dicta magni illum consequatur possimus voluptatibus, aperiam eius alias molestias officia doloribus, inventore praesentium ut?</p>
-			<h1><a href="#">CTA</a></h1>
+			<h3><a href="#">CTA</a></h3>
 			<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, quo ut ex a porro doloribus nobis ducimus at dolores rerum facilis vitae cumque minima nesciunt repellat. Voluptates mollitia nihil nobis voluptatem ipsa assumenda ea consequuntur dicta magni illum consequatur possimus voluptatibus, aperiam eius alias molestias officia doloribus, inventore praesentium ut?</p>
 		</div>
 	</div>
