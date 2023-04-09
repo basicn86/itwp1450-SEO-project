@@ -5,8 +5,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<link rel="icon" type="image/x-icon" href="../favicon.png">
-	<link rel="stylesheet" href="../styles.css">
+	<link rel="icon" type="image/x-icon" href="/itwp1450/favicon.png">
+	<link rel="stylesheet" href="/itwp1450/styles.css">
 
 	<!--Begin SEO-->
 	<meta name="description" content="Stocks consist of all the shares by which ownership of a corporation or company is divided. Stock can be bought and sold privately or on stock exchanges.">
@@ -16,7 +16,7 @@
 </head>
 <body>
     <header>
-        <?php include("../templates/topnav.php"); ?>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . "/itwp1450/templates/topnav.php"); ?>
     </header>
 
     <hr>
@@ -51,33 +51,13 @@
         </form>
         </div>
         <div class="right-column">
-            <h3 style="text-align: center; text-decoration: underline;">Learn about Stocks&excl;</h3>
-            <h3 class="learn-section"><a href="./WhatAreStocks.php">1 What are stocks</a></h3>
-            <h3 class="learn-section"><a href="#">2 Types</a></h3>
-            <h4 class="learn-section"><a href="#">2.1 Rule 144</a></h4>
-            <h3 class="learn-section"><a href="#">3 Applications</a></h3>
-            <h4 class="learn-section"><a href="#">3.1 Shareholder Rights</a></h4>
-            <h4 class="learn-section"><a href="#">3.2 Means of financing</a></h4>
-            <h3 class="learn-section"><a href="#">4 Trading</a></h3>
-            <h4 class="learn-section"><a href="#">4.1 Buying</a></h4>
-            <h4 class="learn-section"><a href="#">4.2 Selling</a></h4>
-            <h4 class="learn-section"><a href="#">4.3 Short Selling</a></h4>
-            <h4 class="learn-section"><a href="#">4.3.1 Risks of Short Selling</a></h4>
-            <h4 class="learn-section"><a href="#">4.4 Stock price fluctuations</a></h4>
-            <h4 class="learn-section"><a href="#">4.5 Stock price determination</a></h4>
-            <h4 class="learn-section"><a href="#">4.6 Arbitrate Trading</a></h4>
-
-            <div style="height: 50px;"></div> <!--Spacer-->
-
-            <h3 style="text-align: center; text-decoration: underline;">Regulations</h3>
-            <h3 class="learn-section"><a href="https://www.finra.org/#/">Finra Regulations &lpar;Finra.org&rpar;</a></h3>
-            <h3 class="learn-section"><a href="https://www.sec.gov/">Securities and Exchange commission &lpar;SEC.gov&rpar;</a></h3>
+            <?php include($_SERVER['DOCUMENT_ROOT'] . "/itwp1450/templates/learnSideNav.php") ?>
         </div>
     </div>
 
     <hr>
     <footer>
-        <?php include("../templates/footernav.php") ?>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . "/itwp1450/templates/footernav.php") ?>
     </footer>
 </body>
 </html>
