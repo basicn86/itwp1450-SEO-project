@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="./styles.css">
 
 	<!--Begin SEO-->
-	<meta name="description" content="Trade, sell, and learn about stocks and crypto.">
+	<meta name="description" content="Looking to invest in stocks but don't know where to start? Our website offers expert advice and analysis to help you make informed decisions and get started in the stock market.">
 	<!--End SEO-->
 
 	<title>Learn, Trade, Buy, and Sell - BoneStocks</title>
