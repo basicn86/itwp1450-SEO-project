@@ -1,8 +1,8 @@
 <div class="follow-us">
 <h3>Follow Us</h3>
-<a href="#"><img src="/itwp1450/images/icons/fb.png" width="64" height="64" alt="Follow on Facebook"></a>
-<a href="#"><img src="/itwp1450/images/icons/twitter.png" width="64" height="64" alt="Follow on Twitter"></a>
-<a href="#"><img src="/itwp1450/images/icons/reddit.png" width="64" height="64" alt="Follow on Reddit"></a>
+<a href="https://www.facebook.com/"><img src="/itwp1450/images/icons/fb.png" width="64" height="64" alt="Follow on Facebook"></a>
+<a href="https://twitter.com/"><img src="/itwp1450/images/icons/twitter.png" width="64" height="64" alt="Follow on Twitter"></a>
+<a href="https://www.reddit.com/"><img src="/itwp1450/images/icons/reddit.png" width="64" height="64" alt="Follow on Reddit"></a>
 </div>
 <ul class="footer-col1">
 	<li><a href="#">Careers</a></li>
