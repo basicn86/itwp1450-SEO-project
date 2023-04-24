@@ -12,7 +12,7 @@
 	<meta name="description" content="Rule 144 is a Securities and Exchange Commission (SEC) rule that sets out the conditions under which certain restricted or unregistered securities can be sold.">
 	<!--End SEO-->
 
-    <title>Rule 144 - BoneStocks</title>
+    <title>What is Rule 144&quest; - BoneStocks</title>
 </head>
 <body>
     <header>
