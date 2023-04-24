@@ -25,7 +25,7 @@
         <article class="left-column">
         <h1>Types of stocks</h1>
         <figure>
-            <img class="article-image" src="/itwp1450/images/common-vs-preferred.png" width="958" height="465" title="Common stock and preferred stock chart" alt="Common stock and preferred stock chart">
+            <img class="article-image" src="/itwp1450/images/common-vs-preferred.png" width="1024" height="412" title="Common stock and preferred stock chart" alt="Common stock and preferred stock chart">
             <figcaption class="article-caption">Common stock and preferred stock chart</figcaption>
         </figure>
         <h2>Common stock and preferred stock</h2>
