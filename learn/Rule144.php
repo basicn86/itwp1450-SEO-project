@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="/itwp1450/styles.css">
 
 	<!--Begin SEO-->
-	<meta name="description" content="Understand the difference between common and preferred stocks. While common stock carries voting rights, preferred stock typically receives priority in dividend payments.">
+	<meta name="description" content="Rule 144 is a Securities and Exchange Commission (SEC) rule that sets out the conditions under which certain restricted or unregistered securities can be sold.">
 	<!--End SEO-->
 
     <title>Rule 144 - BoneStocks</title>
@@ -25,8 +25,8 @@
         <article class="left-column">
         <h1>Rule 144</h1>
         <figure>
-            <img class="article-image" src="/itwp1450/images/qqq-stock-price.png" width="958" height="465" title="Stock price of QQQ over the years" alt="Stock price of QQQ over the years">
-            <figcaption style="font-style: italic;">Stock price of QQQ over the years</figcaption>
+            <img class="article-image" src="/itwp1450/images/rule-144-summary.png" width="500" height="351" title="Rule 144 summary" alt="Rule 144 summary">
+            <figcaption class="article-caption">Rule 144 summary</figcaption>
         </figure>
         <p>Rule 144 is a Securities and Exchange Commission (SEC) rule that sets out the conditions under which certain restricted or unregistered securities can be sold. Specifically, it outlines the conditions under which restricted securities, such as those held by insiders, affiliates, or private companies, can be sold in the public market. Under Rule 144, restricted securities can be sold publicly only after a holding period has elapsed, during which time the securities cannot be sold or transferred. The length of the holding period depends on the type of issuer and how the securities were acquired. Additionally, there are certain volume limitations on the amount of securities that can be sold, and the sales must be made in accordance with certain notice and disclosure requirements. Overall, Rule 144 is designed to regulate the sale of restricted securities and promote transparency in the public market. It allows insiders and other restricted stockholders to sell their shares in the open market, but only under certain conditions and with appropriate disclosures to ensure that investors are fully informed about the transaction.</p>
 

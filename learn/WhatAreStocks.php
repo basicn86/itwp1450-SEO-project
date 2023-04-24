@@ -26,7 +26,7 @@
         <h1>What are stocks?</h1>
         <figure>
             <img class="article-image" src="/itwp1450/images/qqq-stock-price.png" width="958" height="465" title="Stock price of QQQ over the years" alt="Stock price of QQQ over the years">
-            <figcaption style="font-style: italic;">Stock price of QQQ over the years</figcaption>
+            <figcaption class="article-caption">Stock price of QQQ over the years</figcaption>
         </figure>
         <h2>Stocks for beginners</h2>
         <p>In finance, stock (also capital stock) consist of all the shares by which ownership of a corporation or company is divided. (Especially in American English, the word "stocks" is also used to refer to shares.) A single share of the stock means fractional ownership of the corporation in proportion to the total number of shares. This typically entitles the shareholder (stockholder) to that fraction of the company's earnings, proceeds from liquidation of assets (after discharge of all senior claims such as secured and unsecured debt), or voting power, often dividing these up in proportion to the amount of money each stockholder has invested. Not all stock is necessarily equal, as certain classes of stock may be issued for example without voting rights, with enhanced voting rights, or with a certain priority to receive profits or liquidation proceeds before or after other classes of shareholders.</p>

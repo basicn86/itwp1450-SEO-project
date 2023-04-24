@@ -25,8 +25,8 @@
         <article class="left-column">
         <h1>Types of stocks</h1>
         <figure>
-            <img class="article-image" src="/itwp1450/images/qqq-stock-price.png" width="958" height="465" title="Stock price of QQQ over the years" alt="Stock price of QQQ over the years">
-            <figcaption style="font-style: italic;">Stock price of QQQ over the years</figcaption>
+            <img class="article-image" src="/itwp1450/images/common-vs-preferred.png" width="958" height="465" title="Common stock and preferred stock chart" alt="Common stock and preferred stock chart">
+            <figcaption class="article-caption">Common stock and preferred stock chart</figcaption>
         </figure>
         <h2>Common stock and preferred stock</h2>
         <p>Stock typically takes the form of shares of either common stock or preferred stock. As a unit of ownership, common stock typically carries voting rights that can be exercised in corporate decisions. Preferred stock differs from common stock in that it typically does not carry voting rights but is legally entitled to receive a certain level of dividend payments before any dividends can be issued to other shareholders. Convertible preferred stock is preferred stock that includes an option for the holder to convert the preferred shares into a fixed number of common shares, usually any time after a predetermined date. Shares of such stock are called "convertible preferred shares" (or "convertible preference shares" in the UK).</p>
