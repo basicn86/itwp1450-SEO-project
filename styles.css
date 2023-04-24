@@ -53,14 +53,14 @@ header{
 
 .left-column{
     grid-column: 1 / 3;
-    width: 66vw;
+    width: 60vw;
     padding: 12px 12px 12px 12px;
 }
 
 .right-column{
     border-left: 1px solid black;
     grid-column: 3;
-    width: 33vw;
+    width: 30vw;
     padding: 12px 12px 12px 12px;
 }
 /*End main page styling*/
