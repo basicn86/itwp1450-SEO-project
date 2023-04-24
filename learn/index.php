@@ -24,7 +24,7 @@
     <div class="learn-grid-container">
         <div class="learn-left-column">
             <h1 class="learn-section"><a href="./WhatAreStocks.php">1 What are stocks</a></h1>
-            <h1 class="learn-section"><a href="#">2 Types</a></h1>
+            <h1 class="learn-section"><a href="./StockTypes.php">2 Types</a></h1>
             <h2 class="learn-section"><a href="#">2.1 Rule 144</a></h2>
             <h1 class="learn-section"><a href="#">3 Applications</a></h1>
             <h2 class="learn-section"><a href="#">3.1 Shareholder Rights</a></h2>

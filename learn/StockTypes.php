@@ -9,10 +9,10 @@
 	<link rel="stylesheet" href="/itwp1450/styles.css">
 
 	<!--Begin SEO-->
-	<meta name="description" content="Stocks consist of all the shares by which ownership of a corporation or company is divided. Stock can be bought and sold privately or on stock exchanges.">
+	<meta name="description" content="Understand the difference between common and preferred stocks. While common stock carries voting rights, preferred stock typically receives priority in dividend payments.">
 	<!--End SEO-->
 
-    <title>What are stocks and how to buy them&quest; - BoneStocks</title>
+    <title>Types of stocks - BoneStocks</title>
 </head>
 <body>
     <header>
@@ -23,15 +23,15 @@
 
     <div class="grid-container">
         <article class="left-column">
-        <h1>What are stocks?</h1>
+        <h1>Types of stocks</h1>
         <figure>
             <img class="article-image" src="/itwp1450/images/qqq-stock-price.png" width="958" height="465" title="Stock price of QQQ over the years" alt="Stock price of QQQ over the years">
             <figcaption style="font-style: italic;">Stock price of QQQ over the years</figcaption>
         </figure>
-        <h2>Stocks for beginners</h2>
-        <p>In finance, stock (also capital stock) consist of all the shares by which ownership of a corporation or company is divided. (Especially in American English, the word "stocks" is also used to refer to shares.) A single share of the stock means fractional ownership of the corporation in proportion to the total number of shares. This typically entitles the shareholder (stockholder) to that fraction of the company's earnings, proceeds from liquidation of assets (after discharge of all senior claims such as secured and unsecured debt), or voting power, often dividing these up in proportion to the amount of money each stockholder has invested. Not all stock is necessarily equal, as certain classes of stock may be issued for example without voting rights, with enhanced voting rights, or with a certain priority to receive profits or liquidation proceeds before or after other classes of shareholders.</p>
-        <h2>How do I buy stocks?</h2>
-        <p>Stock can be bought and sold privately or on stock exchanges, and such transactions are typically heavily regulated by governments to prevent fraud, protect investors, and benefit the larger economy. The stocks are deposited with the depositories in the electronic format also known as Demat account. As new shares are issued by a company, the ownership and rights of existing shareholders are diluted in return for cash to sustain or grow the business. Companies can also buy back stock, which often lets investors recoup the initial investment plus capital gains from subsequent rises in stock price. Stock options issued by many companies as part of employee compensation do not represent ownership, but represent the right to buy ownership at a future time at a specified price. This would represent a windfall to the employees if the option is exercised when the market price is higher than the promised price, since if they immediately sold the stock they would keep the difference (minus taxes).</p>
+        <h2>Common stock and preferred stock</h2>
+        <p>Stock typically takes the form of shares of either common stock or preferred stock. As a unit of ownership, common stock typically carries voting rights that can be exercised in corporate decisions. Preferred stock differs from common stock in that it typically does not carry voting rights but is legally entitled to receive a certain level of dividend payments before any dividends can be issued to other shareholders. Convertible preferred stock is preferred stock that includes an option for the holder to convert the preferred shares into a fixed number of common shares, usually any time after a predetermined date. Shares of such stock are called "convertible preferred shares" (or "convertible preference shares" in the UK).</p>
+        <h2>Hybrid stocks</h2>
+        <p>Preferred stock may be hybrid by having the qualities of bonds of fixed returns and common stock voting rights. They also have preference in the payment of dividends over common stock and also have been given preference at the time of liquidation over common stock. They have other features of accumulation in dividend. In addition, preferred stock usually comes with a letter designation at the end of the security; for example, Berkshire-Hathaway Class "B" shares sell under stock ticker BRK.B, whereas Class "A" shares of ORION DHC, Inc will sell under ticker OODHA until the company drops the "A" creating ticker OODH for its "Common" shares only designation. This extra letter does not mean that any exclusive rights exist for the shareholders but it does let investors know that the shares are considered for such, however, these rights or privileges may change based on the decisions made by the underlying company.</p>
 
         <h3>Share</h3>
         <?php $currentPageUrl = "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] ?>
