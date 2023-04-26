@@ -7,10 +7,10 @@
         <li>Stocks</li>
         <li>Crypto</li>
         <li>Support</li>
-        <li>Contact</li>
+        <li><a href="/itwp1450/contact.php">Contact</a></li>
     </ul>
 </nav>
-<form class="search" method="post">
+<form class="search" method="get">
     <p><input type="text" name="search_term" size="64" value="<?php if(isset($_POST['search_term'])) {echo $_POST['search_term'];} ?>"></p>
     <p><input class="submit-button" type="submit" name="submit" value="Search&excl;"></p>
 </form>
