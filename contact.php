@@ -10,6 +10,8 @@
 
     <meta name="description" content="Get in touch with us today! Our contact page provides multiple ways for you to reach us, including phone, email, and a convenient contact form."> 
     <title>Contact BoneStocks</title>
+
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/itwp1450/templates/googleAnalytics.php"); ?>
 </head>
 <body>
     <header>

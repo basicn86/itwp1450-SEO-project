@@ -13,6 +13,8 @@
 	<!--End SEO-->
 
     <title>What is Rule 144&quest; - BoneStocks</title>
+
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/itwp1450/templates/googleAnalytics.php"); ?>
 </head>
 <body>
     <header>

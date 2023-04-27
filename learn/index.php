@@ -13,6 +13,8 @@
 	<!--End SEO-->
 
 	<title>BoneStocks - Learn stocks &amp; Crypto</title>
+
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/itwp1450/templates/googleAnalytics.php"); ?>
 </head>
 <body>
     <header>

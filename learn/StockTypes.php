@@ -13,6 +13,8 @@
 	<!--End SEO-->
 
     <title>Types of stocks - BoneStocks</title>
+
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/itwp1450/templates/googleAnalytics.php"); ?>
 </head>
 <body>
     <header>
